@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://anubhab-code.github.io/csb-ij64v/static/css/main.77f54260.chunk.css",
+    "main.js": "https://anubhab-code.github.io/csb-ij64v/static/js/main.09c78922.chunk.js",
+    "main.js.map": "https://anubhab-code.github.io/csb-ij64v/static/js/main.09c78922.chunk.js.map",
+    "runtime-main.js": "https://anubhab-code.github.io/csb-ij64v/static/js/runtime-main.912765c2.js",
+    "runtime-main.js.map": "https://anubhab-code.github.io/csb-ij64v/static/js/runtime-main.912765c2.js.map",
+    "static/js/2.87bd56a9.chunk.js": "https://anubhab-code.github.io/csb-ij64v/static/js/2.87bd56a9.chunk.js",
+    "static/js/2.87bd56a9.chunk.js.map": "https://anubhab-code.github.io/csb-ij64v/static/js/2.87bd56a9.chunk.js.map",
+    "index.html": "https://anubhab-code.github.io/csb-ij64v/index.html",
+    "precache-manifest.1b48cc2444b7f7bf0d7a04db1793fda7.js": "https://anubhab-code.github.io/csb-ij64v/precache-manifest.1b48cc2444b7f7bf0d7a04db1793fda7.js",
+    "service-worker.js": "https://anubhab-code.github.io/csb-ij64v/service-worker.js",
+    "static/css/main.77f54260.chunk.css.map": "https://anubhab-code.github.io/csb-ij64v/static/css/main.77f54260.chunk.css.map",
+    "static/js/2.87bd56a9.chunk.js.LICENSE.txt": "https://anubhab-code.github.io/csb-ij64v/static/js/2.87bd56a9.chunk.js.LICENSE.txt",
+    "static/media/first_graphic.svg": "https://anubhab-code.github.io/csb-ij64v/static/media/first_graphic.9432ddaf.svg",
+    "static/media/profileAvatar.jpg": "https://anubhab-code.github.io/csb-ij64v/static/media/profileAvatar.71bb19a1.jpg",
+    "static/media/second_graphic.svg": "https://anubhab-code.github.io/csb-ij64v/static/media/second_graphic.6b55a616.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.912765c2.js",
+    "static/js/2.87bd56a9.chunk.js",
+    "static/css/main.77f54260.chunk.css",
+    "static/js/main.09c78922.chunk.js"
+  ]
+}
